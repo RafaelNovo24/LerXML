@@ -1,0 +1,13 @@
+<command>
+   <Name>one</Name>
+   <data>
+     <int>46</int>
+     <int>49</int>
+     <int>50</int>
+   </data>
+   <rangeData>
+     <int atributo="teste1">36</int>
+     <int atributo="teste2">29</int>
+     <int atributo="teste3">10</int>
+   </rangeData>
+</command>

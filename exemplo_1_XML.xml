@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<peticionServicio lang="ESP" poliza="45416" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="https://www.creditoycaucion.es/axis/xml-
+schemas/plantilla_general_servicios_esp.xsd">
+  <tipoRespuesta formato="1" modo="1"/>
+  <clasificacionDeCliente>
+    <importeSolicitado>10000.50</importeSolicitado>
+    <clienteCyc>80000003</clienteCyc>
+    <nif>A99999999</nif>
+    <nombreCliente>
+      <razonSocial>CLIENTE EXT 1</razonSocial>
+    </nombreCliente>
+    <domicilio>
+      <nombreVia>VIA CAGLIARI</nombreVia>
+      <numeroVia>1</numeroVia>
+      <localidad>ROMA</localidad>
+      <codigoPostal>11111</codigoPostal>
+      <pais>4113</pais>
+    </domicilio>
+  </clasificacionDeCliente>
+</peticionServicio>

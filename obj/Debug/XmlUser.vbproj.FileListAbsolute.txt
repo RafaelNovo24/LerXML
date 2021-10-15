@@ -1,0 +1,15 @@
+C:\Users\Rafael Novo\Desktop\Empresas\Ãjudas\XmlUser\bin\Debug\XmlUser.exe.config
+C:\Users\Rafael Novo\Desktop\Empresas\Ãjudas\XmlUser\bin\Debug\XmlUser.exe
+C:\Users\Rafael Novo\Desktop\Empresas\Ãjudas\XmlUser\bin\Debug\XmlUser.pdb
+C:\Users\Rafael Novo\Desktop\Empresas\Ãjudas\XmlUser\bin\Debug\XmlUser.xml
+C:\Users\Rafael Novo\Desktop\Empresas\Ãjudas\XmlUser\obj\Debug\XmlUser.Resources.resources
+C:\Users\Rafael Novo\Desktop\Empresas\Ãjudas\XmlUser\obj\Debug\XmlUser.vbproj.GenerateResource.cache
+C:\Users\Rafael Novo\Desktop\Empresas\Ãjudas\XmlUser\obj\Debug\XmlUser.vbproj.CoreCompileInputs.cache
+C:\Users\Rafael Novo\Desktop\Empresas\Ãjudas\XmlUser\obj\Debug\XmlUser.exe
+C:\Users\Rafael Novo\Desktop\Empresas\Ãjudas\XmlUser\obj\Debug\XmlUser.xml
+C:\Users\Rafael Novo\Desktop\Empresas\Ãjudas\XmlUser\obj\Debug\XmlUser.pdb
+C:\Users\Rafael Novo\Desktop\Empresas\Ãjudas\XmlUser\Exe\XmlUser.exe.config
+C:\Users\Rafael Novo\Desktop\Empresas\Ãjudas\XmlUser\Exe\XmlUser.exe
+C:\Users\Rafael Novo\Desktop\Empresas\Ãjudas\XmlUser\Exe\XmlUser.pdb
+C:\Users\Rafael Novo\Desktop\Empresas\Ãjudas\XmlUser\Exe\XmlUser.xml
+C:\Users\Rafael Novo\Desktop\Empresas\Ãjudas\XmlUser\obj\Debug\XmlUser.vbproj.AssemblyReference.cache
